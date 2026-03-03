@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou  Douglas Paiva 
 
-<!--
-**paiva-analytics/paiva-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciências Econômicas  
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+📊 Focado em Análise de Dados  
 
-Here are some ideas to get you started:
+## 🚀 Atualmente estudando:
+- Python para Data Science
+- SQL e Banco de Dados
+- Análise Exploratória de Dados
+- Estatística aplicada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Interesses:
+- Data Science
+- Tecnologia aplicada à Economia
+- Business Intelligence
+- Desenvolvimento de Sistemas
+
+## 🛠 Tecnologias em aprendizado:
+- Python
+- SQL
+- Git & GitHub
+- Excel / Power BI
